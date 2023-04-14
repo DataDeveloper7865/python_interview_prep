@@ -1,0 +1,7 @@
+Interview prep for Known Interview
+
+
+- Flask API server
+- serialize and deserialize python objects
+- Fast API server
+- SQL alchemy
